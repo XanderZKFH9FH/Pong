@@ -1,0 +1,14 @@
+C:\Users\Gulde\Desktop\Ontwikkeling\Privé\Pong\bin\Debug\net8.0\Pong.exe
+C:\Users\Gulde\Desktop\Ontwikkeling\Privé\Pong\bin\Debug\net8.0\Pong.deps.json
+C:\Users\Gulde\Desktop\Ontwikkeling\Privé\Pong\bin\Debug\net8.0\Pong.runtimeconfig.json
+C:\Users\Gulde\Desktop\Ontwikkeling\Privé\Pong\bin\Debug\net8.0\Pong.dll
+C:\Users\Gulde\Desktop\Ontwikkeling\Privé\Pong\bin\Debug\net8.0\Pong.pdb
+C:\Users\Gulde\Desktop\Ontwikkeling\Privé\Pong\obj\Debug\net8.0\Pong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gulde\Desktop\Ontwikkeling\Privé\Pong\obj\Debug\net8.0\Pong.AssemblyInfoInputs.cache
+C:\Users\Gulde\Desktop\Ontwikkeling\Privé\Pong\obj\Debug\net8.0\Pong.AssemblyInfo.cs
+C:\Users\Gulde\Desktop\Ontwikkeling\Privé\Pong\obj\Debug\net8.0\Pong.csproj.CoreCompileInputs.cache
+C:\Users\Gulde\Desktop\Ontwikkeling\Privé\Pong\obj\Debug\net8.0\Pong.dll
+C:\Users\Gulde\Desktop\Ontwikkeling\Privé\Pong\obj\Debug\net8.0\refint\Pong.dll
+C:\Users\Gulde\Desktop\Ontwikkeling\Privé\Pong\obj\Debug\net8.0\Pong.pdb
+C:\Users\Gulde\Desktop\Ontwikkeling\Privé\Pong\obj\Debug\net8.0\Pong.genruntimeconfig.cache
+C:\Users\Gulde\Desktop\Ontwikkeling\Privé\Pong\obj\Debug\net8.0\ref\Pong.dll
